@@ -1,0 +1,6 @@
+[submodule "midifile"]
+	path = libs/midifile/midifile
+	url = https://github.com/craigsapp/midifile
+[submodule "r8brain-free-src"]
+	path = libs/r8bsrc/r8brain-free-src
+	url = https://github.com/avaneev/r8brain-free-src
